@@ -4,7 +4,7 @@
 
 ### Проектная работа 1 
 
-##### Ссылка на проект - https://denzass.github.io/Sprint11/
+##### Ссылка на проект - https://denzass.github.io/SinglePage/
 
 **Проект по темам «Расширенные возможности HTML и CSS»**
 
